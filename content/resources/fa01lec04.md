@@ -4,8 +4,6 @@ description: Obtaining CKS (TM) (Chemical Kinetics Simulator 1.01)
 file: /courses/7-51-graduate-biochemistry-fall-2001/dcb2f9d05c13c541c045272d183dcce9_fa01lec04.pdf
 file_size: 9455
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

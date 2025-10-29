@@ -25,7 +25,6 @@
     "website": "7-51-graduate-biochemistry-fall-2001"
   },
   "course_title": "Graduate Biochemistry",
-  "hide_download": true,
   "course_description": "The tools and analytical methods that biochemists use to dissect biological problems. Analysis of the mode of action and structure of regulatory, binding, and catalytic proteins.\n",
   "department_numbers": [
     "7"
@@ -36,7 +35,6 @@
     "content": "1de75d6e-acbd-40ae-48e9-93fd72cf34a0",
     "website": "7-51-graduate-biochemistry-fall-2001"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes"
   ],

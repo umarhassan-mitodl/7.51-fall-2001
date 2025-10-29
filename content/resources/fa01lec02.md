@@ -4,8 +4,6 @@ description: Review of Chemical Kinetics
 file: /courses/7-51-graduate-biochemistry-fall-2001/9cce195a20542db34ab1d7195f12a724_fa01lec02.pdf
 file_size: 114534
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

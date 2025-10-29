@@ -4,8 +4,6 @@ description: Molecular Graphics (RasMol) [and PDB files]
 file: /courses/7-51-graduate-biochemistry-fall-2001/da0c92eb352ca4d2001880543bc345f9_fa01lec03.pdf
 file_size: 5350
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,8 +2,6 @@
 content_type: page
 description: This syllabus section provides information on course meeting times, required
   texts, exams, and problem sets.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
